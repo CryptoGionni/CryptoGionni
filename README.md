@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I’m @CryptoGionni, Software engineering student at Federico II of Naples 
 - 👀 I’m interested in developing an environment to visualize concepts to learn faster 
-- 🌱 I’m currently learning C, PHP, Git 
+- 🌱 I’m currently learning C, PHP, Git, Python 
 - 👯 I’m looking to collaborate on something that can make the difference 
 - 📫 How to reach me giovybolla00@gmail.com
